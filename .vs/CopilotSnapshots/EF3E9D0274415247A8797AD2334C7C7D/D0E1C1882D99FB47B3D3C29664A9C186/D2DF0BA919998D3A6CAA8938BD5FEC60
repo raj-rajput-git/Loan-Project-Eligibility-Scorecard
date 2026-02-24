@@ -25,24 +25,17 @@ namespace EligibilityandScorecard.Infrastructure.ExternalServices
                 CustomerId = customerId
             };
 
-            try
-            {
-                var response = await _httpClient.PostAsJsonAsync(
-                    "api/Credit/cibil-check",
-                    request);
+            var response = await _httpClient.PostAsJsonAsync(
+                "api/Credit/cibil-check",
+                request);
 
-                response.EnsureSuccessStatusCode();
+            response.EnsureSuccessStatusCode();
 
-                var apiResponse =
-         await response.Content.ReadFromJsonAsync<ApiResponse<CibilDto>>();
+            var apiResponse =
+     await response.Content.ReadFromJsonAsync<ApiResponse<CibilDto>>();
 
-                return apiResponse?.data;
-            }
-            catch (HttpRequestException ex)
-            {
-                Console.WriteLine($"Error calling Credit API for CustomerId {customerId}: {ex.Message}");
-                return null;
-            }
+            return apiResponse?.data;
+
         }
 
     }

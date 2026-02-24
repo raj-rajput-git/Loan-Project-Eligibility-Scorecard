@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\RAJ-PC\\OneDrive\\VS\\Loan Project\\Loan-project\\LOS\\EligibilityandScorecard.API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BB30B413-65C8-44B3-BBEB-64D9CC417A67}|EligibilityandScorecard.Infrastructure\\EligibilityandScorecard.Infrastructure.csproj|c:\\users\\raj-pc\\onedrive\\vs\\loan project\\loan-project\\los\\eligibilityandscorecard.api\\eligibilityandscorecard.infrastructure\\externalservices\\creditapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB30B413-65C8-44B3-BBEB-64D9CC417A67}|EligibilityandScorecard.Infrastructure\\EligibilityandScorecard.Infrastructure.csproj|solutionrelative:eligibilityandscorecard.infrastructure\\externalservices\\creditapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E58871-16DE-46D6-818B-32E92387B5B2}|EligibilityandScorecard.Application\\EligibilityandScorecard.Application.csproj|c:\\users\\raj-pc\\onedrive\\vs\\loan project\\loan-project\\los\\eligibilityandscorecard.api\\eligibilityandscorecard.application\\dto\\scorecard\\scorecardresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E58871-16DE-46D6-818B-32E92387B5B2}|EligibilityandScorecard.Application\\EligibilityandScorecard.Application.csproj|solutionrelative:eligibilityandscorecard.application\\dto\\scorecard\\scorecardresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E58871-16DE-46D6-818B-32E92387B5B2}|EligibilityandScorecard.Application\\EligibilityandScorecard.Application.csproj|c:\\users\\raj-pc\\onedrive\\vs\\loan project\\loan-project\\los\\eligibilityandscorecard.api\\eligibilityandscorecard.application\\dto\\scorecard\\generatescorecardrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E58871-16DE-46D6-818B-32E92387B5B2}|EligibilityandScorecard.Application\\EligibilityandScorecard.Application.csproj|solutionrelative:eligibilityandscorecard.application\\dto\\scorecard\\generatescorecardrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E58871-16DE-46D6-818B-32E92387B5B2}|EligibilityandScorecard.Application\\EligibilityandScorecard.Application.csproj|c:\\users\\raj-pc\\onedrive\\vs\\loan project\\loan-project\\los\\eligibilityandscorecard.api\\eligibilityandscorecard.application\\dto\\eligibility\\eligibilityresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E58871-16DE-46D6-818B-32E92387B5B2}|EligibilityandScorecard.Application\\EligibilityandScorecard.Application.csproj|solutionrelative:eligibilityandscorecard.application\\dto\\eligibility\\eligibilityresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E58871-16DE-46D6-818B-32E92387B5B2}|EligibilityandScorecard.Application\\EligibilityandScorecard.Application.csproj|c:\\users\\raj-pc\\onedrive\\vs\\loan project\\loan-project\\los\\eligibilityandscorecard.api\\eligibilityandscorecard.application\\dto\\cibil\\cibildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E58871-16DE-46D6-818B-32E92387B5B2}|EligibilityandScorecard.Application\\EligibilityandScorecard.Application.csproj|solutionrelative:eligibilityandscorecard.application\\dto\\cibil\\cibildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E58871-16DE-46D6-818B-32E92387B5B2}|EligibilityandScorecard.Application\\EligibilityandScorecard.Application.csproj|c:\\users\\raj-pc\\onedrive\\vs\\loan project\\loan-project\\los\\eligibilityandscorecard.api\\eligibilityandscorecard.application\\dto\\eligibility\\evaluateeligibilityrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E58871-16DE-46D6-818B-32E92387B5B2}|EligibilityandScorecard.Application\\EligibilityandScorecard.Application.csproj|solutionrelative:eligibilityandscorecard.application\\dto\\eligibility\\evaluateeligibilityrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ED1D3647-6189-48DB-8C4D-0DE232824AFA}|EligibilityandScorecard.API\\EligibilityandScorecard.API.csproj|c:\\users\\raj-pc\\onedrive\\vs\\loan project\\loan-project\\los\\eligibilityandscorecard.api\\eligibilityandscorecard.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED1D3647-6189-48DB-8C4D-0DE232824AFA}|EligibilityandScorecard.API\\EligibilityandScorecard.API.csproj|solutionrelative:eligibilityandscorecard.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -87,19 +111,97 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CreditApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\RAJ-PC\\OneDrive\\VS\\Loan Project\\Loan-project\\LOS\\EligibilityandScorecard.API\\EligibilityandScorecard.Infrastructure\\ExternalServices\\CreditApiClient.cs",
+              "RelativeDocumentMoniker": "EligibilityandScorecard.Infrastructure\\ExternalServices\\CreditApiClient.cs",
+              "ToolTip": "C:\\Users\\RAJ-PC\\OneDrive\\VS\\Loan Project\\Loan-project\\LOS\\EligibilityandScorecard.API\\EligibilityandScorecard.Infrastructure\\ExternalServices\\CreditApiClient.cs",
+              "RelativeToolTip": "EligibilityandScorecard.Infrastructure\\ExternalServices\\CreditApiClient.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T09:47:59.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScorecardResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\RAJ-PC\\OneDrive\\VS\\Loan Project\\Loan-project\\LOS\\EligibilityandScorecard.API\\EligibilityandScorecard.Application\\DTO\\ScoreCard\\ScorecardResponseDto.cs",
+              "RelativeDocumentMoniker": "EligibilityandScorecard.Application\\DTO\\ScoreCard\\ScorecardResponseDto.cs",
+              "ToolTip": "C:\\Users\\RAJ-PC\\OneDrive\\VS\\Loan Project\\Loan-project\\LOS\\EligibilityandScorecard.API\\EligibilityandScorecard.Application\\DTO\\ScoreCard\\ScorecardResponseDto.cs",
+              "RelativeToolTip": "EligibilityandScorecard.Application\\DTO\\ScoreCard\\ScorecardResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T09:47:44.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenerateScorecardRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\RAJ-PC\\OneDrive\\VS\\Loan Project\\Loan-project\\LOS\\EligibilityandScorecard.API\\EligibilityandScorecard.Application\\DTO\\ScoreCard\\GenerateScorecardRequestDto.cs",
+              "RelativeDocumentMoniker": "EligibilityandScorecard.Application\\DTO\\ScoreCard\\GenerateScorecardRequestDto.cs",
+              "ToolTip": "C:\\Users\\RAJ-PC\\OneDrive\\VS\\Loan Project\\Loan-project\\LOS\\EligibilityandScorecard.API\\EligibilityandScorecard.Application\\DTO\\ScoreCard\\GenerateScorecardRequestDto.cs",
+              "RelativeToolTip": "EligibilityandScorecard.Application\\DTO\\ScoreCard\\GenerateScorecardRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T09:47:42.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EligibilityResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\RAJ-PC\\OneDrive\\VS\\Loan Project\\Loan-project\\LOS\\EligibilityandScorecard.API\\EligibilityandScorecard.Application\\DTO\\Eligibility\\EligibilityResponseDto.cs",
+              "RelativeDocumentMoniker": "EligibilityandScorecard.Application\\DTO\\Eligibility\\EligibilityResponseDto.cs",
+              "ToolTip": "C:\\Users\\RAJ-PC\\OneDrive\\VS\\Loan Project\\Loan-project\\LOS\\EligibilityandScorecard.API\\EligibilityandScorecard.Application\\DTO\\Eligibility\\EligibilityResponseDto.cs",
+              "RelativeToolTip": "EligibilityandScorecard.Application\\DTO\\Eligibility\\EligibilityResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T09:47:34.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CibilDto.cs",
+              "DocumentMoniker": "C:\\Users\\RAJ-PC\\OneDrive\\VS\\Loan Project\\Loan-project\\LOS\\EligibilityandScorecard.API\\EligibilityandScorecard.Application\\DTO\\Cibil\\CibilDto.cs",
+              "RelativeDocumentMoniker": "EligibilityandScorecard.Application\\DTO\\Cibil\\CibilDto.cs",
+              "ToolTip": "C:\\Users\\RAJ-PC\\OneDrive\\VS\\Loan Project\\Loan-project\\LOS\\EligibilityandScorecard.API\\EligibilityandScorecard.Application\\DTO\\Cibil\\CibilDto.cs",
+              "RelativeToolTip": "EligibilityandScorecard.Application\\DTO\\Cibil\\CibilDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T09:47:28.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EvaluateEligibilityRequest.cs",
+              "DocumentMoniker": "C:\\Users\\RAJ-PC\\OneDrive\\VS\\Loan Project\\Loan-project\\LOS\\EligibilityandScorecard.API\\EligibilityandScorecard.Application\\DTO\\Eligibility\\EvaluateEligibilityRequest.cs",
+              "RelativeDocumentMoniker": "EligibilityandScorecard.Application\\DTO\\Eligibility\\EvaluateEligibilityRequest.cs",
+              "ToolTip": "C:\\Users\\RAJ-PC\\OneDrive\\VS\\Loan Project\\Loan-project\\LOS\\EligibilityandScorecard.API\\EligibilityandScorecard.Application\\DTO\\Eligibility\\EvaluateEligibilityRequest.cs",
+              "RelativeToolTip": "EligibilityandScorecard.Application\\DTO\\Eligibility\\EvaluateEligibilityRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T09:47:01.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\RAJ-PC\\OneDrive\\VS\\Loan Project\\Loan-project\\LOS\\EligibilityandScorecard.API\\EligibilityandScorecard.API\\Program.cs",
               "RelativeDocumentMoniker": "EligibilityandScorecard.API\\Program.cs",
               "ToolTip": "C:\\Users\\RAJ-PC\\OneDrive\\VS\\Loan Project\\Loan-project\\LOS\\EligibilityandScorecard.API\\EligibilityandScorecard.API\\Program.cs",
               "RelativeToolTip": "EligibilityandScorecard.API\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-24T08:40:55.722Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "EligibilityController.cs",
               "DocumentMoniker": "C:\\Users\\RAJ-PC\\OneDrive\\VS\\Loan Project\\Loan-project\\LOS\\EligibilityandScorecard.API\\EligibilityandScorecard.API\\Controllers\\EligibilityController.cs",
               "RelativeDocumentMoniker": "EligibilityandScorecard.API\\Controllers\\EligibilityController.cs",
@@ -111,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\RAJ-PC\\OneDrive\\VS\\Loan Project\\Loan-project\\LOS\\EligibilityandScorecard.API\\EligibilityandScorecard.API\\appsettings.json",
               "RelativeDocumentMoniker": "EligibilityandScorecard.API\\appsettings.json",
