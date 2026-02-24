@@ -24,7 +24,7 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 
 builder.Services.AddHttpClient<CreditApiClient>(client =>
 {
-    client.BaseAddress = new Uri("http://localhost:5034/"); // Credit Service URL
+    client.BaseAddress = new Uri("https://creditservice-cbetggfmgsceg6f8.canadacentral-01.azurewebsites.net/"); // Credit Service URL
 });
 
 builder.Services.AddScoped<IEligibilityRepo, EligibilityRepo>();

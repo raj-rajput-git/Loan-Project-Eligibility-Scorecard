@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EligibilityandScorecard.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0036dad048648af1c300762d1e9ac4ea76b7a3aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aff16925ca9e1f2a9124233603d03e03c00f236e")]
 [assembly: System.Reflection.AssemblyProductAttribute("EligibilityandScorecard.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EligibilityandScorecard.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

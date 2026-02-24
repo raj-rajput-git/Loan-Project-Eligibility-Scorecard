@@ -1,0 +1,103 @@
+[
+  {
+    "ContainingType": "EligibilityandScorecard.API.Controllers.EligibilityController",
+    "Method": "GetByCustomerId",
+    "RelativePath": "api/Eligibility/{customerId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EligibilityandScorecard.API.Controllers.EligibilityController",
+    "Method": "Evaluate",
+    "RelativePath": "api/Eligibility/evaluate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "EligibilityandScorecard.Application.DTO.Eligibility.EvaluateEligibilityRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EligibilityandScorecard.API.Controllers.ScoreCardController",
+    "Method": "GetAll",
+    "RelativePath": "api/ScoreCard/all/{customerId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EligibilityandScorecard.API.Controllers.ScoreCardController",
+    "Method": "Generate",
+    "RelativePath": "api/ScoreCard/generate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "EligibilityandScorecard.Application.DTO.ScoreCard.GenerateScorecardRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EligibilityandScorecard.API.Controllers.ScoreCardController",
+    "Method": "GetLatest",
+    "RelativePath": "api/ScoreCard/latest/{customerId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EligibilityandScorecard.API.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[EligibilityandScorecard.API.WeatherForecast, EligibilityandScorecard.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
